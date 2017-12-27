@@ -1,10 +1,6 @@
-#include<iostream>
+#include<iostram>
 using namespace std;
-int main(){
-    cout<<"Hello";
-    cout<<"Hello world";
-    cout<<"FuckYou";
-    return 0;
+int main()
+{
+    cout<<"hello";
 }
-
-
